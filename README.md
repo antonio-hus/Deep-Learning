@@ -27,11 +27,26 @@ Follow these steps to set up and run the Jupyter notebooks for deep learning fro
    git clone https://github.com/antonio-hus/Deep-Learning.git
    ```
 
-2. **Open Google Colab**
+2. **Open Google Colab**:
    Upload the notebooks to your Colab account and run them there.
 
 ## Projects Table
 You can view more in-app images & project related documents in the Images folder:  
+
+1. **Music Generation**  
+Task:  
+
+2. **Digit Classification**  
+Task:  
+   
+3. **Facial Detection**  
+Task:  
+   
+4. **Cartpole Balancing**  
+Task:  
+
+5. **Autonomous Driving**  
+Task:    
 
 
 ## Technologies Used
